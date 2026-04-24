@@ -16,7 +16,7 @@ The goal of this repository is to:
 I am following the **SQL 50 Study Plan from LeetCode**, which covers a wide range of topics including:
 
 - SELECT queries & filtering  
-- JOINs (INNER, LEFT, RIGHT)  
+- JOINs
 - Aggregations & GROUP BY  
 - Subqueries  
 - Window functions (advanced problems)  
