@@ -1,7 +1,7 @@
---Problem: Rising Temperature
+-- Problem: Rising Temperature
 --
---Goal:
---Write a solution to find all dates' id with higher temperatures compared to its previous dates (yesterday).
+-- Goal:
+-- Write a solution to find all dates' id with higher temperatures compared to its previous dates (yesterday).
 
 SELECT w1.id
 FROM Weather as w1
