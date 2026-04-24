@@ -23,11 +23,3 @@ I am following the **SQL 50 Study Plan from LeetCode**, which covers a wide rang
 - Basic to intermediate database problem-solving patterns  
 
 👉 LeetCode Study Plan: https://leetcode.com/studyplan/top-sql-50/  
-
----
-
-## 🧠 Repository Structure
-
-sql-practice/
-│
-├── Basic Joins/
