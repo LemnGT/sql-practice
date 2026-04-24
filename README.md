@@ -10,7 +10,7 @@ The goal of this repository is to:
 
 - Strengthen my SQL skills through consistent practice  
 - Build a solid understanding of core database concepts  
-- Track my progress while solving real interview-style problems  
+- Track my progress while solving problems  
 - Serve as a public portfolio of my SQL learning journey  
 
 I am following the **SQL 50 Study Plan from LeetCode**, which covers a wide range of topics including:
